@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Actively maintaining: [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code)
+
+Playing around with reading images of receipts using [Tesseract](https://github.com/rkotze/tesseract-play)
+
+Learning TypeScript [my typescript notes](https://github.com/rkotze/learn-typescript)
+
+Check out my [tech blog](https://www.richardkotze.com)
+
 <!--
 **rkotze/rkotze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
