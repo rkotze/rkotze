@@ -2,7 +2,7 @@
 
 Actively maintaining: [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code)
 
-Playing around with reading images of receipts using [Tesseract](https://github.com/rkotze/tesseract-play)
+Playing around with reading receipts using [Tesseract](https://github.com/rkotze/tesseract-play)
 
 Learning TypeScript [my typescript notes](https://github.com/rkotze/learn-typescript)
 
