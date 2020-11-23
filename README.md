@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Actively maintaining: [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code)
+⚡ Actively maintaining: [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code)
 
-Playing around with reading receipts using [Tesseract](https://github.com/rkotze/tesseract-play)
+🔭 WIP building new VS Code extension [Git Ease](https://github.com/rkotze/git-ease)
 
-Learning TypeScript [my typescript notes](https://github.com/rkotze/learn-typescript)
+🌱 I’m currently learning more [TypeScript](https://www.typescriptlang.org/) and started [Svelte](https://svelte.dev/)
 
 Check out my [tech blog](https://www.richardkotze.com)
 
