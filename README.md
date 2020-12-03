@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+:christmas_tree: Let's see if I can do all 25 days of [Advent of Code](https://adventofcode.com/)
+
 ⚡ Actively maintaining: [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code)
 
 🔭 WIP building new VS Code extension [Git Ease](https://github.com/rkotze/git-ease)
@@ -10,6 +12,8 @@ Check out my [tech blog](https://www.richardkotze.com)
 
 <!--
 **rkotze/rkotze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Emoji list: https://gist.github.com/rxaviers/7360908
 
 Here are some ideas to get you started:
 
