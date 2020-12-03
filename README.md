@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 :fireworks: :santa:
 
 :christmas_tree: Let's see if I can do all 25 days of [Advent of Code](https://adventofcode.com/)
 
@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning more [TypeScript](https://www.typescriptlang.org/) and started [Svelte](https://svelte.dev/)
 
-Check out my [tech blog](https://www.richardkotze.com)
+:ledger: Check out my [tech blog](https://www.richardkotze.com)
 
 <!--
 **rkotze/rkotze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
