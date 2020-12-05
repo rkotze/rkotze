@@ -2,7 +2,7 @@
 
 :christmas_tree: Let's see if I can do all 25 days of [Advent of Code](https://adventofcode.com/)
 
-⚡ Actively maintaining: [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code)
+⚡ Actively maintaining: [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code) ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-mob.svg)
 
 🔭 WIP building new VS Code extension [Git Ease](https://github.com/rkotze/git-ease)
 
