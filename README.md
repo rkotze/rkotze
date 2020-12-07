@@ -1,6 +1,6 @@
 ### Hi there 👋 :fireworks: :santa:
 
-:christmas_tree: Let's see if I can do all 25 days of [Advent of Code](https://adventofcode.com/)
+:christmas_tree: Let's see if I can do all 25 days of [Advent of Code solutions](https://github.com/rkotze/advent-of-code)
 
 ⚡ Actively maintaining: [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code) ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-mob.svg)
 
