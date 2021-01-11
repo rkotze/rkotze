@@ -1,8 +1,6 @@
 ### Hi there 👋 :fireworks: :santa:
 
-:christmas_tree: Let's see if I can do all 25 days of [Advent of Code solutions](https://github.com/rkotze/advent-of-code)
-
-⚡ Actively maintaining: [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code) ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-mob.svg)
+⚡ Actively maintaining: [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code) ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-mob.svg) [![](https://vsmarketplacebadge.apphb.com/downloads-short/RichardKotze.git-mob.svg)](https://marketplace.visualstudio.com/items?itemName=RichardKotze.git-mob.svg)
 
 🔭 WIP building new VS Code extension [Git Ease](https://github.com/rkotze/git-ease)
 
