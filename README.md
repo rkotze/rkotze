@@ -2,7 +2,7 @@
 
 ⚡ Actively maintaining: [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code) ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-mob.svg) [![](https://vsmarketplacebadge.apphb.com/downloads-short/RichardKotze.git-mob.svg)](https://marketplace.visualstudio.com/items?itemName=RichardKotze.git-mob.svg)
 
-🔭 WIP building new VS Code extension [Git Ease](https://github.com/rkotze/git-ease) ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-ease.svg) [![](https://vsmarketplacebadge.apphb.com/downloads-short/RichardKotze.git-ease.svg)](https://marketplace.visualstudio.com/items?itemName=RichardKotze.git-ease.svg)
+🔭 **New** VS Code extension [Git Ease](https://github.com/rkotze/git-ease) ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-ease.svg) [![](https://vsmarketplacebadge.apphb.com/downloads-short/RichardKotze.git-ease.svg)](https://marketplace.visualstudio.com/items?itemName=RichardKotze.git-ease.svg)
 
 🌱 I’m currently learning more [TypeScript](https://www.typescriptlang.org/) and started [Svelte](https://svelte.dev/)
 
