@@ -1,8 +1,10 @@
-### Hi there 👋 :fireworks: :santa:
+### Hi there 👋
 
-⚡ Actively maintaining: [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code) ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-mob.svg) [![](https://vsmarketplacebadge.apphb.com/downloads-short/RichardKotze.git-mob.svg)](https://marketplace.visualstudio.com/items?itemName=RichardKotze.git-mob.svg)
+⚡ VS Code extensions
 
-🔭 **New** VS Code extension [Git Ease](https://github.com/rkotze/git-ease) ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-ease.svg) [![](https://vsmarketplacebadge.apphb.com/downloads-short/RichardKotze.git-ease.svg)](https://marketplace.visualstudio.com/items?itemName=RichardKotze.git-ease.svg)
+<img src="https://user-images.githubusercontent.com/10452163/79142596-a808fa00-7db3-11ea-9a02-2d020e0b29d7.png" width="30" alt="Git Mob" /> [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code) ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-mob.svg)
+
+<img src="https://user-images.githubusercontent.com/10452163/104818888-310d0000-5822-11eb-8d37-89d917672783.png" width="30" alt="Git ease" /> [Git Ease](https://github.com/rkotze/git-ease) ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-ease.svg) 
 
 🌱 I’m currently learning more [TypeScript](https://www.typescriptlang.org/) and started [Svelte](https://svelte.dev/)
 
