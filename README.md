@@ -16,7 +16,7 @@ IMO, the best thing we can do now is chose a plant-based diet and hopefully go V
 
 [🖥 Viva! Vegan charity](https://viva.org.uk/) [🖥 Kindness project](https://www.kindnessproject.org.au/) [🖥 Challenge 22](https://challenge22.com/)
 
-[📚 Animal liberation](https://www.goodreads.com/book/show/29380.Animal_Liberation?from_search=true&from_srp=true&qid=9m6BzXkQqP&rank=1) [📚 Vegan propaganda](https://www.goodreads.com/book/show/58093554-this-is-vegan-propaganda?ac=1&from_search=true&qid=U50eqxHkIX&rank=1)
+[📚 Animal liberation](https://www.goodreads.com/book/show/29380.Animal_Liberation?from_search=true&from_srp=true&qid=9m6BzXkQqP&rank=1) [📚 This is Vegan Propaganda](https://www.goodreads.com/book/show/58093554-this-is-vegan-propaganda?ac=1&from_search=true&qid=U50eqxHkIX&rank=1)
 
 ### Projects
 
