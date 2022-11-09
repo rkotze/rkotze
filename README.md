@@ -2,13 +2,13 @@ Hi 👋
 
 ### On the mind
 
-Animal agriculture is the leading cause of deforestation and has a negative impact on our environment.
+So much [suffering and death in farming animals](https://www.youtube.com/watch?v=LQRAfJyEsko) it can't be considered [humane](https://www.merriam-webster.com/dictionary/humane).
 
-Huge amount of resources like water, crops, land, antibiotics and more go into keeping farm animals alive instead of humans directly consuming those essential resouces. I my opinion this is very waistful way to produce food.
+Huge amount of resources like water, crops, land, antibiotics and more go into keeping farm animals alive instead of humans directly consuming those essential resouces. I my opinion this is very waistful way to produce food. See [global land use for food production](https://ourworldindata.org/global-land-for-agriculture)
 
-So much suffering and death in farming animals it can't be considered [humane](https://www.merriam-webster.com/dictionary/humane).
+Animal agriculture is the leading cause of [deforestation](https://ourworldindata.org/deforestation) creating a massive negative impact on our environment.
 
-IMO, the best thing we can do now is chose a plant-based diet and hopefully go Vegan.
+IMO, the best thing we can do now is chose a _plant-based_ diet and hopefully go **Vegan**.
 
 [📺 Eating Our Way to Extinction](https://www.youtube.com/watch?v=LaPge01NQTQ) [📺 Milked](https://www.youtube.com/watch?v=MCwpsMtmMhM&t=5s&ab_channel=PLANTBASEDNEWS) [📺 Dominion (2018)](https://www.youtube.com/watch?v=LQRAfJyEsko)
 
