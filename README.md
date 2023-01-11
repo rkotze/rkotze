@@ -10,7 +10,7 @@ Animal agriculture is the leading cause of [deforestation](https://ourworldindat
 
 IMO, the best thing we can do now is chose a _plant-based_ diet and hopefully go **Vegan**.
 
-[📺 Eating Our Way to Extinction](https://www.youtube.com/watch?v=LaPge01NQTQ) [📺 Milked](https://milked.film/watch) [📺 Dominion (2018)](https://www.youtube.com/watch?v=LQRAfJyEsko), [Milk: make your own mind up](https://youtu.be/d5wabeFG9pM)
+[📺 Eating Our Way to Extinction](https://www.youtube.com/watch?v=LaPge01NQTQ) [📺 Milked](https://milked.film/watch) [📺 Dominion (2018)](https://www.youtube.com/watch?v=LQRAfJyEsko), [📺 Fish feel pain](https://youtu.be/y8Nj1-YZDlc) [📺 Milk: make your own mind up](https://youtu.be/d5wabeFG9pM)
 
 [📺 Every Argument Against Veganism](https://www.youtube.com/watch?v=byTxzzztRBU&ab_channel=TEDxTalks)
 
