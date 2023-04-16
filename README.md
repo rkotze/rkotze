@@ -8,7 +8,7 @@ Huge amount of resources like water, crops, land, antibiotics and more go into k
 
 Animal agriculture is the leading cause of [deforestation](https://ourworldindata.org/deforestation) creating a massive negative impact on our environment.
 
-IMO, the best thing we can do now is chose a _plant-based_ diet and hopefully go **Vegan**.
+IMO, the best thing we can do is to go **Vegan**. Veganism is to achieve the goal of [abolishing of animal explotation](https://www.abolitionistapproach.com/about/).
 
 [📺 Eating Our Way to Extinction](https://www.youtube.com/watch?v=LaPge01NQTQ) [📺 Milked](https://milked.film/watch) [📺 Dominion (2018)](https://www.youtube.com/watch?v=LQRAfJyEsko), [📺 Fish feel pain](https://youtu.be/y8Nj1-YZDlc) [📺 Milk: make your own mind up](https://youtu.be/d5wabeFG9pM)
 
