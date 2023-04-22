@@ -24,7 +24,7 @@ IMO, the best thing we can do is to go **Vegan**. Veganism is to achieve the goa
 
   <img src="https://user-images.githubusercontent.com/10452163/79142596-a808fa00-7db3-11ea-9a02-2d020e0b29d7.png" width="30" alt="Git Mob" /> [Git Mob VS Code](https://github.com/rkotze/git-mob-vs-code) Co-author commits with ease! ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/RichardKotze.git-mob?color=brightgreen&label=VSCode%20installs) ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-mob.svg) ![](https://img.shields.io/open-vsx/dt/RichardKotze/git-mob?color=brightgreen&label=VSX%20install)
 
-<img src="https://user-images.githubusercontent.com/10452163/104818888-310d0000-5822-11eb-8d37-89d917672783.png" width="30" alt="Git ease" /> [Git Ease VS Code](https://github.com/rkotze/git-ease) Helpful git log view in panel ![](https://vsmarketplacebadge.apphb.com/installs/RichardKotze.git-ease.svg) 
+<img src="https://user-images.githubusercontent.com/10452163/104818888-310d0000-5822-11eb-8d37-89d917672783.png" width="30" alt="Git ease" /> [Git Ease VS Code](https://github.com/rkotze/git-ease) Helpful git log view in panel ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/RichardKotze.git-ease?color=brightgreen&label=VSCode%20installs)
 
 🌱 I’m currently learning more [TypeScript](https://www.typescriptlang.org/) and started [Svelte](https://svelte.dev/)
 
