@@ -10,13 +10,15 @@ Animal agriculture is the leading cause of [deforestation](https://ourworldindat
 
 IMO, the best thing we can do is to go **Vegan**. Veganism is to achieve the goal of [abolishing of animal explotation](https://www.abolitionistapproach.com/about/).
 
-[📺 Eating Our Way to Extinction](https://www.youtube.com/watch?v=LaPge01NQTQ) [📺 Milked](https://milked.film/watch) [📺 Dominion (2018)](https://www.youtube.com/watch?v=LQRAfJyEsko), [📺 Fish feel pain](https://youtu.be/y8Nj1-YZDlc) [📺 Milk: make your own mind up](https://youtu.be/d5wabeFG9pM)
+[📺 Eating Our Way to Extinction](https://www.youtube.com/watch?v=LaPge01NQTQ) [📺 Milked](https://milked.film/watch) [📺 Dominion (2018)](https://www.youtube.com/watch?v=LQRAfJyEsko) [📺 Fish feel pain](https://youtu.be/y8Nj1-YZDlc) [📺 Milk: make your own mind up](https://youtu.be/d5wabeFG9pM)
 
 [📺 Every Argument Against Veganism](https://www.youtube.com/watch?v=byTxzzztRBU&ab_channel=TEDxTalks)
 
 [🖥 Viva! Vegan charity](https://viva.org.uk/) [🖥 Kindness project](https://www.kindnessproject.org.au/) [🖥 Challenge 22](https://challenge22.com/)
 
-[📚 Animal liberation](https://www.goodreads.com/book/show/29380.Animal_Liberation?from_search=true&from_srp=true&qid=9m6BzXkQqP&rank=1) [📚 This is Vegan Propaganda](https://www.goodreads.com/book/show/58093554-this-is-vegan-propaganda?ac=1&from_search=true&qid=U50eqxHkIX&rank=1)
+### Vegan books
+
+[📚 This is Vegan Propaganda](https://www.goodreads.com/book/show/58093554-this-is-vegan-propaganda?ac=1&from_search=true&qid=U50eqxHkIX&rank=1) [📚 The sexual politics of meat](https://www.goodreads.com/book/show/51714.The_Sexual_Politics_of_Meat) [📚 Animal liberation](https://www.goodreads.com/book/show/29380.Animal_Liberation?from_search=true&from_srp=true&qid=9m6BzXkQqP&rank=1) 
 
 ### Projects
 
