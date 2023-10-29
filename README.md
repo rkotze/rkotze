@@ -2,13 +2,13 @@ Hi 👋
 
 ### On the mind
 
-So much [suffering and death in farming animals](https://www.youtube.com/watch?v=LQRAfJyEsko) it can't be considered [humane](https://www.merriam-webster.com/dictionary/humane).
+So much [suffering and death in farming animals](https://www.youtube.com/watch?v=LQRAfJyEsko) it can't be considered [humane](https://www.merriam-webster.com/dictionary/humane). [Hundred of millions of animals **killed per day**](https://ourworldindata.org/how-many-animals-get-slaughtered-every-day). [Animals killed for meat every year](https://ourworldindata.org/grapher/animals-slaughtered-for-meat)
 
-Huge amount of resources like water, crops, land, antibiotics and more go into keeping farm animals alive instead of humans directly consuming those essential resouces. I my opinion this is very waistful way to produce food. See [global land use for food production](https://ourworldindata.org/global-land-for-agriculture). [Animals killed for meat every year](https://ourworldindata.org/grapher/animals-slaughtered-for-meat)
+Huge amounts of resources like water, crops, land, antibiotics and more go into keeping farm animals alive instead of humans directly consuming those essential resources. This is a very wasteful way to produce food. See [global land use for food production](https://ourworldindata.org/global-land-for-agriculture). 
 
 Animal agriculture is the leading cause of [deforestation](https://ourworldindata.org/deforestation) creating a massive negative impact on our environment.
 
-IMO, the best thing we can do is to go **Vegan**. Veganism is to achieve the goal of [abolishing of animal explotation](https://www.abolitionistapproach.com/about/).
+IMO, the best thing we can do is to go **Vegan**. Veganism is to achieve the goal of [abolishing animal exploitation](https://www.abolitionistapproach.com/about/).
 
 [📺 Eating Our Way to Extinction](https://www.youtube.com/watch?v=LaPge01NQTQ) [📺 Milked](https://milked.film/watch) [📺 Dominion (2018)](https://www.youtube.com/watch?v=LQRAfJyEsko) [📺 Fish feel pain](https://youtu.be/y8Nj1-YZDlc) [📺 Milk: make your own mind up](https://youtu.be/d5wabeFG9pM)
 
