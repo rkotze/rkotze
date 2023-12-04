@@ -2,6 +2,8 @@ Hi 👋
 
 ### On the mind
 
+Blog post about [understanding Veganism](https://www.richardkotze.com/understanding-veganism).
+
 So much [suffering and death in farming animals](https://www.youtube.com/watch?v=LQRAfJyEsko) it can't be considered [humane](https://www.merriam-webster.com/dictionary/humane). [Hundred of millions of animals **killed per day**](https://ourworldindata.org/how-many-animals-get-slaughtered-every-day). [Animals killed for meat every year](https://ourworldindata.org/grapher/animals-slaughtered-for-meat)
 
 Huge amounts of resources like water, crops, land, antibiotics and more go into keeping farm animals alive instead of humans directly consuming those essential resources. This is a very wasteful way to produce food. See [global land use for food production](https://ourworldindata.org/global-land-for-agriculture). 
