@@ -1,8 +1,12 @@
 Hi 👋
 
+Welcome to my GH profile. Code responsibly and respectfully.
+
 ### On the mind
 
-My blog post about [understanding Veganism](https://www.richardkotze.com/understanding-veganism). IMO, the best thing we can do is to go **Vegan**. Veganism is to achieve the goal of [abolishing animal exploitation](https://www.abolitionistapproach.com/about/).
+Read my blog post about [understanding Veganism](https://www.richardkotze.com/understanding-veganism). Please. 
+
+IMO, the best way to be kind to others is to go **Vegan**. Veganism is to achieve the goal of [abolishing animal exploitation](https://www.abolitionistapproach.com/about/).
 
 [Animals killed for meat every year](https://ourworldindata.org/grapher/animals-slaughtered-for-meat)
 
