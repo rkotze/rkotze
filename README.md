@@ -6,12 +6,11 @@ Welcome to my GH profile. Code responsibly and respectfully.
 
 Read my blog post about [understanding Veganism](https://www.richardkotze.com/understanding-veganism). Please. 
 
-IMO, the best way to be kind to others is to go **Vegan**. Veganism is to achieve the goal of [abolishing animal exploitation](https://www.abolitionistapproach.com/about/).
+Going **Vegan** is a great thing to do. Veganism is to achieve the goal of [abolishing animal exploitation](https://www.abolitionistapproach.com/about/).
 
-[Animals killed for their flesh every year.](https://ourworldindata.org/grapher/animals-slaughtered-for-meat). If you eat animals the flesh of your **victim** hangs at the end of your fork.
+[Animals killed for their flesh every year.](https://ourworldindata.org/grapher/animals-slaughtered-for-meat). Animals are individuals that want to live their lives, like us humans.
 
-[**Watch Pignorant!**]
-(https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.fb7a2b07-20a5-45b5-a894-01938ca48954)
+[**Watch Pignorant!**](https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.fb7a2b07-20a5-45b5-a894-01938ca48954)
 
 Huge amounts of resources like water, crops, land, antibiotics and more go into keeping farm animals alive instead of humans directly consuming those essential resources. This is a very wasteful way to produce food. See [global land use for food production](https://ourworldindata.org/global-land-for-agriculture). 
 
