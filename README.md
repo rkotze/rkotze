@@ -4,7 +4,7 @@ Code responsibly.
 
 ### On the mind
 
-Read my blog post about [understanding Veganism](https://www.richardkotze.com/understanding-veganism). Please. 
+Read my blog post about [understanding Veganism](https://www.richardkotze.com/understanding-veganism).
 
 Going **Vegan** to help massively reduce non-human animals from suffering. Veganism is to achieve the goal of [abolishing animal exploitation](https://www.abolitionistapproach.com/about/).
 
