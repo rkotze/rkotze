@@ -6,6 +6,8 @@ Code responsibly.
 
 Read my blog post about [understanding Veganism](https://www.richardkotze.com/understanding-veganism).
 
+[Best Speech You Will Ever Hear - Gary Yourofsky](https://youtu.be/es6U00LMmC4?si=y2jCPGkOG5UX4WFG).
+
 Going **Vegan** to help massively reduce non-human animals from suffering. Veganism is to achieve the goal of [abolishing animal exploitation](https://www.abolitionistapproach.com/about/).
 
 [Animals killed for their flesh every year.](https://ourworldindata.org/grapher/animals-slaughtered-for-meat). Animals are individuals that want to live their lives, like us humans.
@@ -16,7 +18,7 @@ Huge amounts of resources like water, crops, land, antibiotics and more go into 
 
 Animal agriculture is the leading cause of [deforestation](https://ourworldindata.org/deforestation) creating a massive negative impact on our environment.
 
-[📺 Eating Our Way to Extinction](https://www.youtube.com/watch?v=LaPge01NQTQ) [📺 Milked](https://milked.film/watch) [📺 Dominion (2018)](https://www.youtube.com/watch?v=LQRAfJyEsko) [📺 Fish feel pain](https://youtu.be/y8Nj1-YZDlc) [📺 Milk: make your own mind up](https://youtu.be/d5wabeFG9pM)
+[📺 Eating Our Way to Extinction](https://www.youtube.com/watch?v=LaPge01NQTQ) [📺 Milked](https://milked.film/watch) [📺 Dominion (2018)](https://www.youtube.com/watch?v=LQRAfJyEsko) [📺 YouTube playlist of Vegan docs](https://youtube.com/playlist?list=PLyd2jViEuLxn10agMzg0U2Yu9x4Tl-ORl&si=gYrcEK-ICboSyo-s)
 
 [📺 Every Argument Against Veganism](https://www.youtube.com/watch?v=byTxzzztRBU&ab_channel=TEDxTalks)
 
